@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+}
+
+table {
+  border-collapse: collapse; /* collapse table borders */
+}
+
+th, td {
+  padding: 5px;
+  border: 1px solid black; /* set table cell borders */
+}

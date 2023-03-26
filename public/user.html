@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="css/main.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+  <h1>User#Show</h1>
+
+  <a href="./users.html">Back</a>
+
+  <br><br>
+
+  <a id="edit-link" href="">Edit</a>
+
+  <table>
+    <tbody id="table-body">
+      <tr>
+        <th>ID</th>
+        <td id="id"></td>
+      </tr>
+      <tr>
+        <th>First Name</th>
+        <td id="first-name"></td>
+      </tr>
+      <tr>
+        <th>Last Name</th>
+        <td id="last-name"></td>
+      </tr>
+      <tr>
+        <th>Age</th>
+        <td id="age"></td>
+      </tr>
+      <tr>
+        <th>Weight</th>
+        <td id="weight"></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <br>
+
+  <button onclick="sendDeleteUserRequest()">Delete</button>
+
+  <script src="./js/utilities.js"></script>
+  <script src="./js/user.js"></script>
+</body>
+</html>

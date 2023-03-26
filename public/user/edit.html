@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="../css/main.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+  <h1>User#Edit</h1>
+
+  <a id="back-link" href="">Back</a> |
+  <a href="../users.html">Users Index</a>
+
+  <br><br>
+
+  <table>
+    <tbody>
+      <tr>
+        <th>First Name</th>
+        <td>
+          <input id="first-name">
+        </td>
+      </tr>
+      <tr>
+        <th>Last Name</th>
+        <td>
+          <input id="last-name">
+        </td>
+      </tr>
+      <tr>
+        <th>Age</th>
+        <td>
+          <input id="age">
+        </td>
+      </tr>
+      <tr>
+        <th>Weight</th>
+        <td>
+          <input id="weight">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <button onclick="sendUpdateUserRequest()">Update User</button>
+
+  <script src="../js/utilities.js"></script>
+  <script src="../js/user-edit.js"></script>
+</body>
+</html>
