@@ -1,3 +1,10 @@
+# About
+
+This is an Express API demo that illustrates the following:
+- How to implement a simple "fake database" in the API using an array
+- How to implement full CRUD operations in the API on that array
+- How to implement a traditional multi-page CRUD app on top of this API using vanilla HTML/CSS/JS
+
 # Try It Out Now (No Setup)
 
 Fork this repo on Replit to run the app with no setup:
