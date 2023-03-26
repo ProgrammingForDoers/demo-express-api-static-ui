@@ -1,3 +1,13 @@
+# Try It Out Now (No Setup)
+
+Fork this repo on Replit to run the app with no setup:
+
+https://replit.com/@Prgrmming4Doers/DemoExpressApiStaticUi
+
+(You can also modify the code and see the changes)
+
+Otherwise, to clone/set up this project locally, proceed to "Getting Started" section
+
 # Getting Started
 
 ### Installation
