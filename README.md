@@ -9,7 +9,7 @@ This is an Express API demo that illustrates the following:
 
 Fork this repo on Replit to run the app with no setup:
 
-https://replit.com/@Prgrmming4Doers/DemoExpressApiStaticUi
+https://replit.com/@Prgrmming4Doers/DemoExpressApiVanillaUi
 
 (You can also modify the code and see the changes)
 
