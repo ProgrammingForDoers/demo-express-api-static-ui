@@ -45,7 +45,7 @@ You will need Docker installed
 1. Run: `bin/setup`
 1. Run: `bin/services up -d`
 1. Run: `bin/services logs` to tail logs
-1. Navigate to `http://localhost:3000` in your browser
+1. Navigate to `http://localhost:3000/index.html` in your browser
 
 
 ### Development
